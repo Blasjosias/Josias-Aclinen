@@ -1,12 +1,12 @@
 .mygallery {
     display: grid;
-    grid-gap: 10px;
+    grid-gap: 40px;
 }
 
 .mygallery img {
     width: 100%;
     height: auto;
-    transition: transform 0.5s ease;
+    transition: transform 0.1s ease;
 }
 
 .mygallery img:hover {
